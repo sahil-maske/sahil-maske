@@ -1,12 +1,12 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=7C4DFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Maske;Android+Developer+from+Nagpur%2C+India;Building+PeerLearn+%F0%9F%9A%80;Open+to+Remote+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=7C4DFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Maske;Android+Developer+from+Nagpur%2C+India;Building+PeerLearn+%F0%9F%9A%80;Turning+Ideas+into+Android+Apps)](https://git.io/typing-svg)
 
 <br/>
 
 ![Android](https://img.shields.io/badge/Android-Developer-1DB954?style=flat-square&logo=android&logoColor=white)
 ![Location](https://img.shields.io/badge/Nagpur-India-7C4DFF?style=flat-square)
-![Status](https://img.shields.io/badge/Open_to-Internships-FFCA28?style=flat-square)
+![Status](https://img.shields.io/badge/Building-Real_Products-FFCA28?style=flat-square)
 
 </div>
 
@@ -21,7 +21,7 @@ val sahil = Developer(
     stack    = listOf("Kotlin", "Jetpack Compose", "Firebase", "MVVM"),
     building = "PeerLearn — Peer-to-Peer Skill Exchange App",
     email    = "sahilmaske.dev@gmail.com",
-    openTo   = "Remote Internships & Android Projects"
+    openTo   = "Collaborations & Real-world Projects"
 )
 ```
 
