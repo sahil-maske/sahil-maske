@@ -1,63 +1,99 @@
-# Sahil Maske
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7C4DFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Maske;Android+Developer+from+Nagpur%2C+India;Building+PeerLearn+%F0%9F%9A%80;Open+to+Remote+Internships)](https://git.io/typing-svg)
 
-Android Developer · Nagpur, India
+<br/>
 
----
+![Android](https://img.shields.io/badge/Android-Developer-1DB954?style=flat-square&logo=android&logoColor=white)
+![Location](https://img.shields.io/badge/Nagpur-India-7C4DFF?style=flat-square)
+![Status](https://img.shields.io/badge/Open_to-Internships-FFCA28?style=flat-square)
 
-### About
-
-Second-year Diploma CS student building real-world Android applications. Currently developing **PeerLearn** — a peer-to-peer skill exchange platform for developers.
-
-- 🔭 Building: [PeerLearn](https://github.com/sahil-maske/PeerLearn)
-- 📫 Contact: sahilmaske.dev@gmail.com
-- 🌱 Learning: Kotlin, Jetpack Compose, Firebase
-- 💼 Open to: Remote Android Developer Internships
+</div>
 
 ---
 
-### Tech Stack
+### 👨‍💻 About Me
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0d0d0d?style=flat-square&logo=kotlin&logoColor=7C4DFF)
-![Android](https://img.shields.io/badge/Android-0d0d0d?style=flat-square&logo=android&logoColor=1DB954)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0d0d0d?style=flat-square&logo=jetpackcompose&logoColor=7C4DFF)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=white)
-
----
-
-### Featured Project
-
-**PeerLearn** — Peer-to-peer skill exchange platform for programmers
-
-> Teach what you know. Learn what you don't.
-
-| Feature | Status |
-|---|---|
-| Firebase Authentication | ✅ |
-| Real-time Chat | ✅ |
-| Typing Indicators & Read Receipts | ✅ |
-| Push Notifications (OneSignal) | ✅ |
-| Profile Photos (Cloudinary) | ✅ |
-| Peer Matching by Skills | ✅ |
-| In-Chat Code Sharing | ✅ |
-
-**Stack:** Kotlin · Jetpack Compose · Firebase · MVVM · OneSignal · Cloudinary
-
-→ [View Repository](https://github.com/sahil-maske/PeerLearn)
+```kotlin
+val sahil = Developer(
+    name     = "Sahil Maske",
+    role     = "Android Developer",
+    stack    = listOf("Kotlin", "Jetpack Compose", "Firebase", "MVVM"),
+    building = "PeerLearn — Peer-to-Peer Skill Exchange App",
+    email    = "sahilmaske.dev@gmail.com",
+    openTo   = "Remote Internships & Android Projects"
+)
+```
 
 ---
 
-### GitHub Stats
+### 🛠 Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sahil-maske&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=7C4DFF&icon_color=7C4DFF&text_color=888888)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahil-maske&theme=dark&hide_border=true&background=0d0d0d&ring=7C4DFF&fire=7C4DFF&currStreakLabel=888888)
+![Kotlin](https://img.shields.io/badge/Kotlin-7C4DFF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-1DB954?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### Connect
+### 🚀 Featured Project
 
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:sahilmaske.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/sahil-maske)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=white)](https://github.com/sahil-maske)
+<table>
+  <tr>
+    <td width="60%">
+      <h3>PeerLearn</h3>
+      <p><i>Teach what you know. Learn what you don't.</i></p>
+      <p>A real Android app where developers connect and exchange skills peer-to-peer. Built with production-grade architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7C4DFF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MVVM-1DB954?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square"/>
+      </p>
+      <a href="https://github.com/sahil-maske/PeerLearn">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="40%">
+      <pre>
+✅ Firebase Auth
+💬 Real-time Chat
+⌨️  Typing Indicators
+✅ Read Receipts
+🔔 Push Notifications
+🖼️  Profile Photos
+🤝 Peer Matching
+💻 Code Sharing
+      </pre>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sahil-maske&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=1DB954&text_color=FFFFFF&count_private=true"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-maske&theme=tokyonight&hide_border=true&background=0D1117&ring=7C4DFF&fire=1DB954&currStreakLabel=FFFFFF"/>
+
+</div>
+
+---
+
+### 📬 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/sahilmaske.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilmaske.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-maske)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil-maske)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sahil-maske&color=7C4DFF&style=flat-square&label=Profile+Views)
+
+</div>
