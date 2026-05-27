@@ -1,28 +1,43 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=7C4DFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Maske;Android+Developer+from+Nagpur%2C+India;Building+PeerLearn+%F0%9F%9A%80;Turning+Ideas+into+Android+Apps)](https://git.io/typing-svg)
 
-<br/>
-
-![Android](https://img.shields.io/badge/Android-Developer-1DB954?style=flat-square&logo=android&logoColor=white)
-![Location](https://img.shields.io/badge/Nagpur-India-7C4DFF?style=flat-square)
-![Status](https://img.shields.io/badge/Building-Real_Products-FFCA28?style=flat-square)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=7C4DFF&center=true&vCenter=true&width=700&lines=Built+a+real+Android+app+from+scratch+%F0%9F%9A%80;8%2B+production+features+shipped;Kotlin+%2B+Jetpack+Compose+%2B+Firebase;From+Nagpur+%F0%9F%87%AE%F0%9F%87%B3+%E2%80%94+Building+real+products)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
 
-```kotlin
-val sahil = Developer(
-    name     = "Sahil Maske",
-    role     = "Android Developer",
-    stack    = listOf("Kotlin", "Jetpack Compose", "Firebase", "MVVM"),
-    building = "PeerLearn — Peer-to-Peer Skill Exchange App",
-    email    = "sahilmaske.dev@gmail.com",
-    openTo   = "Collaborations & Real-world Projects"
-)
+### Sahil Maske — Android Developer
+
+**I don't just write code. I build products.**
+
+PeerLearn — a fully functional peer-to-peer skill exchange Android app — built from scratch with real users, real architecture, and real problems solved.
+
+</div>
+
+---
+
+### 🚀 What I've Built
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **[PeerLearn](https://github.com/sahil-maske/PeerLearn)** | P2P skill exchange platform for developers. Real-time chat, push notifications, peer matching — all production-ready. | Kotlin • Compose • Firebase • MVVM |
+| **[CyberRaksha](https://github.com/sahil-maske/CyberRaksha-)** | Cybersecurity awareness Android app | Java • Android |
+
+---
+
+### ⚙️ Production Features Shipped in PeerLearn
+
+```
+🔐  Firebase Auth (Email/Password)        — complete
+💬  Real-time Chat (Firebase RTDB)        — complete
+⌨️   Typing Indicators                     — complete
+✅   Read Receipts                         — complete
+🔔  Push Notifications (OneSignal)        — complete
+🖼️   Profile Photos (Cloudinary)           — complete
+🤝  Peer Matching by Skill Overlap        — complete
+💻  In-Chat Code Sharing                  — complete
 ```
 
 ---
@@ -30,46 +45,11 @@ val sahil = Developer(
 ### 🛠 Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7C4DFF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-1DB954?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-1DB954?style=for-the-badge&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-7C4DFF?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🚀 Featured Project
-
-<table>
-  <tr>
-    <td width="60%">
-      <h3>PeerLearn</h3>
-      <p><i>Teach what you know. Learn what you don't.</i></p>
-      <p>A real Android app where developers connect and exchange skills peer-to-peer. Built with production-grade architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7C4DFF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MVVM-1DB954?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square"/>
-      </p>
-      <a href="https://github.com/sahil-maske/PeerLearn">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="40%">
-      <pre>
-✅ Firebase Auth
-💬 Real-time Chat
-⌨️  Typing Indicators
-✅ Read Receipts
-🔔 Push Notifications
-🖼️  Profile Photos
-🤝 Peer Matching
-💻 Code Sharing
-      </pre>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -84,7 +64,7 @@ val sahil = Developer(
 
 ---
 
-### 📬 Connect
+### 📬 Reach Me
 
 <div align="center">
 
