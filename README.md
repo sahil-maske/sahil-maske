@@ -29,16 +29,16 @@ PeerLearn — a fully functional peer-to-peer skill exchange Android app — bui
 
 ### ⚙️ Production Features Shipped in PeerLearn
 
-```
-🔐  Firebase Auth (Email/Password)        — complete
-💬  Real-time Chat (Firebase RTDB)        — complete
-⌨️   Typing Indicators                     — complete
-✅   Read Receipts                         — complete
-🔔  Push Notifications (OneSignal)        — complete
-🖼️   Profile Photos (Cloudinary)           — complete
-🤝  Peer Matching by Skill Overlap        — complete
-💻  In-Chat Code Sharing                  — complete
-```
+| Feature | Tech Used | Status |
+|---------|-----------|--------|
+| 🔐 Authentication | Firebase Auth | ✅ Complete |
+| 💬 Real-time Chat | Firebase RTDB | ✅ Complete |
+| ⌨️ Typing Indicators | Firebase RTDB | ✅ Complete |
+| ✅ Read Receipts | Firestore | ✅ Complete |
+| 🔔 Push Notifications | OneSignal SDK | ✅ Complete |
+| 🖼️ Profile Photos | Cloudinary API | ✅ Complete |
+| 🤝 Peer Matching | Firestore Queries | ✅ Complete |
+| 💻 In-Chat Code Sharing | Custom UI | ✅ Complete |
 
 ---
 
